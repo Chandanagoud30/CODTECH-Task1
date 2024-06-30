@@ -15,6 +15,9 @@ PROJECT:"Student Grade Management System"
 
 OBJECTIVE
 The objective of the "Student Grade Management System" project is to provide a tool that allows users to input, manage, calculate averages, and display grades for different subjects or assignments, along with determining letter grades and GPAs based on the entered data.
+![Screenshot 2024-06-30 194017](https://github.com/Chandanagoud30/CODTECH-Task1/assets/83391018/7493f997-deec-4532-84a0-3c43fb458bd4)
+
+
 
 KEY ACTIVTIES:
 Inputting Grades: Allow users to input grades for various subjects or assignments.
